@@ -32227,3 +32227,6 @@ article a:hover {
     padding-top: 50px;
     border-top: 1.5px solid #7e899a56;
 }
+::-webkit-scrollbar {
+    display: none;
+  }
